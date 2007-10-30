@@ -1,7 +1,8 @@
 
 
 #import "QSFinderProxy.h"
-#import <QSBase/NSObject+ReaperExtensions.h>
+#import <QSFoundation/NSObject+ReaperExtensions.h>
+#import <QSFoundation/NSAppleScript_BLTRExtensions.h>
 
 
 
@@ -34,8 +35,7 @@
 - (NSArray *)selection{
     NSDictionary *errorDict=nil;
     NSAppleEventDescriptor *desc=[[self finderScript] executeSubroutine:@"get_selection" arguments:nil error:&errorDict];
-    if (errorDict)
-      NSLog(@"Execute Error: %@",errorDict);
+    if (errorDict) NSLog(@"Execute Error: %@",errorDict);
     NSMutableArray *files=[NSMutableArray arrayWithCapacity:[desc numberOfItems]];
     int i;
     for (i=0;i<[desc numberOfItems];i++)
