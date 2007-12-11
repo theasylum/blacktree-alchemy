@@ -178,7 +178,7 @@
 	<key>FavBarConfig</key>
 	<dict>
 		<key>PBXProjectModuleGUID</key>
-		<string>7FC2DCF90CFD3E4B007C00C7</string>
+		<string>7FC05CED0C81D418004C8D58</string>
 		<key>XCBarModuleItemNames</key>
 		<dict/>
 		<key>XCBarModuleItems</key>
@@ -209,7 +209,6 @@
 			<key>ChosenToolbarItems</key>
 			<array>
 				<string>active-target-popup</string>
-				<string>active-executable-popup</string>
 				<string>active-buildstyle-popup</string>
 				<string>action</string>
 				<string>NSToolbarFlexibleSpaceItem</string>
@@ -269,13 +268,14 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>0259C574FE90428111CA0C5A</string>
-								<string>32DBCF9E0370C38000C91783</string>
+								<string>2E58F364FFB232C311CA0CBA</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
 									<integer>6</integer>
+									<integer>5</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -299,7 +299,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>316 49 690 397 0 0 1440 878 </string>
+						<string>665 297 690 397 0 0 1440 877 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -336,7 +336,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {482, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>316 49 690 397 0 0 1440 878 </string>
+								<string>665 297 690 397 0 0 1440 877 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -358,7 +358,7 @@
 								<key>Frame</key>
 								<string>{{0, 5}, {482, 351}}</string>
 								<key>RubberWindowFrame</key>
-								<string>316 49 690 397 0 0 1440 878 </string>
+								<string>665 297 690 397 0 0 1440 877 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -382,9 +382,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>7FC2DCF70CFD3E4B007C00C7</string>
+				<string>7FC05CEB0C81D418004C8D58</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>7FC2DCF80CFD3E4B007C00C7</string>
+				<string>7FC05CEC0C81D418004C8D58</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -518,11 +518,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>7FC2DCFA0CFD3E4B007C00C7</string>
-		<string>/Volumes/Lux/Alchemy/Alchemy-svn/trunk/Quicksilver/PlugIns-Main/Finder/QSFinderPlugIn.xcodeproj</string>
+		<string>7FC05CE90C81D414004C8D58</string>
+		<string>/Volumes/Lux/QS5X/trunk/PlugIns-Main/Finder/QSFinderPlugIn.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>316 49 690 397 0 0 1440 878 </string>
+	<string>665 297 690 397 0 0 1440 877 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -552,7 +552,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {500, 218}}</string>
 								<key>RubberWindowFrame</key>
-								<string>177 355 500 500 0 0 1440 878 </string>
+								<string>434 243 500 500 0 0 1440 877 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -560,6 +560,8 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -576,7 +578,7 @@
 								<key>Frame</key>
 								<string>{{0, 223}, {500, 236}}</string>
 								<key>RubberWindowFrame</key>
-								<string>177 355 500 500 0 0 1440 878 </string>
+								<string>434 243 500 500 0 0 1440 877 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXBuildResultsModule</string>
@@ -598,17 +600,17 @@
 			<true/>
 			<key>TableOfContents</key>
 			<array>
-				<string>7FC2DCFA0CFD3E4B007C00C7</string>
-				<string>7FC2DCFB0CFD3E4B007C00C7</string>
+				<string>7FC05CE90C81D414004C8D58</string>
+				<string>7FC05CEA0C81D414004C8D58</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.buildV3</string>
 			<key>WindowString</key>
-			<string>177 355 500 500 0 0 1440 878 </string>
+			<string>434 243 500 500 0 0 1440 877 </string>
 			<key>WindowToolGUID</key>
-			<string>7FC2DCFA0CFD3E4B007C00C7</string>
+			<string>7FC05CE90C81D414004C8D58</string>
 			<key>WindowToolIsVisible</key>
 			<false/>
 		</dict>

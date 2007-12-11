@@ -4,8 +4,8 @@
 
 #ifdef __OBJC__
 #import <Cocoa/Cocoa.h>
-#import <QSElements/QSElements.h>
-#import <QSBase/QSBase.h>
+#import <QSFoundation/QSFoundation.h>
+#import <QSCore/QSCore.h>
 #endif
 
 
