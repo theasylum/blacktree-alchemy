@@ -1,6 +1,4 @@
-#summary Building the Quicksilver trunk
-
-= Building the Quicksilver trunk =
+= How to build the Quicksilver trunk =
 
 For those of you that like living on the bleeding edge, here are the required steps to get a working Quicksilver from trunk :
   * Get the source from trunk as usual (see SourceInfo)
